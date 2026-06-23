@@ -1,16 +1,43 @@
-## Hi there 👋
+# Vedant Kote
 
-<!--
-**kotevedant8-gif/kotevedant8-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### | Polytechnic student | Python learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hi,i am Vedant Madhukar Kote.
+I learn Computer Deploma in polytechnic collage akole
+
+---
+
+## Skills
+
+| Skill        | Level        |
+|--------------|--------------|
+| Python       | Beginner     |
+| Git & GitHub | Beginner     |
+| Markdown     | Beginner     |
+| C            | Beginner     |
+
+---
+
+## Current Projects
+
+- **Grade Buddy** — a command-line app that tracks test scores and generates a report card.
+- **GitHub Profile** — this very page, my first Markdown website.
+  
+
+---
+
+## Goals
+
+- Learn Python
+- Earn More Money
+  
+
+---
+
+## Find Me
+
+· [Email](kotevedant8@gmail.com)
