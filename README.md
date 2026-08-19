@@ -1,4 +1,4 @@
-# Vedant Kote
+# Vedant Kote <br>
 
 ### | Polytechnic student | Python learner
 
