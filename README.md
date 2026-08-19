@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi,i am Vedant Madhukar Kote.
+Hi,i am Vedant Madhukar Kote 👋.
 I learn Computer Deploma in polytechnic collage akole
 
 ---
