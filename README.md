@@ -1,15 +1,15 @@
 # Hi  <br>
 
-### | Polytechnic student <br>| Python learner
-
----
-
 ## About Me
 
 Hi,i am Vedant Madhukar Kote 👋.<br>
 I learn Computer Deploma in polytechnic collage akole
 
 ---
+### | Polytechnic student <br>| Python learner
+---
+
+
 ##profile:https://profile-omega-topaz.vercel.app/
 
 ## Skills
